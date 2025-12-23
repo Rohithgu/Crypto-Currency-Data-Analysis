@@ -56,4 +56,12 @@ The following visualizations were created using **Matplotlib** and **Seaborn**:
 ---
 
 ## 📁 Project Structure
-
+Crypto-Price-Analysis/
+│
+├── data/
+│ └── crypto_data.csv
+├── notebooks/
+│ └── crypto_analysis.ipynb
+├── visuals/
+│ └── plots/
+└── README.md
